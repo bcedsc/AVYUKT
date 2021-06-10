@@ -1,3 +1,4 @@
+
 # TECHNO CULTURAL FESTIVAL
 			BCE, Bakhtiyarpur - 2021
 
@@ -7,22 +8,25 @@
 | Hostings| description |
 |-|-|
 |orientation | interaction of junior, senior, alumni under one hood |
-|workshop|specific skill-based interactive sessions|
+|workshop|specific skill-based interactive sessions empowered by microsoft and github that is already present in our campus|
 |induction|opportunities especially for 1st year to understand scopes and gateways to possibilities ahead from those already on the path|
 |invocation|success and struggle stories to better understand tactics to handle generic issues yet to come|
 |hackathon-Case Studies|``as the name says``|
-|StartUp Saga|discussing budding frameworks in pearly minds|
+|StartUp Saga|discussing budding frameworks in pearly minds  (basically a hackathon but where ideas would be valued more than the end product itself as in direction of removing the fear of coding skills required for hacakthons)|
 |Cultural Tale|``as the name says(includes essays,fiction,fantasies,poetries)``|
 |Thug Meme battles|;)|
 |Digital art and Animation|``as the name says``|
 |Women's Tech Road-maps|``as the name says``|
-|Social problems advanced|``as the name says(utilizing hardware, software,algorithms, idea sparks, diplomacy,revolutionary movements``|
+|Hackathon (Social problems) ``advanced``|``as the name says(utilizing hardware, software,algorithms, idea sparks, diplomacy,revolutionary movements``|
+|Gaming Events | Having some online multiplayer games to play like ``PUBG`` ``Chess`` and many more... |
 |yet to add parts|``suggestions :(``|
 
 ## Things we would need
 
  - [ ] Permissions
- - [ ] Support
+ - [ ] Support  from college
+ - [x] Seniors Support 
+ - [x] Platform for comminication (``Discord`` preffered)
  - [x] Finance Sponsorships
  - [x] Platform
  - [x] NameSake Sponsorships
