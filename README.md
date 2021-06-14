@@ -4,7 +4,7 @@
 
 >In terms of our previous interactions with participants across multiple colleges in the locality and around, this ***Environment Day*** ``5th June 2021``, We sparked upon an idea to utilize this influx of participants and the lock-down to our advantage to generate a college hosted ``Techno-Cultural-Fest`` a general kick-start base of which are discussed below.
 >### Timing 
-``Mid July 2021``
+``Mid September 2021``
 
 
 
