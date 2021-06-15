@@ -1,6 +1,6 @@
 
 # TECHNO CULTURAL FESTIVAL
-			BCE, Bakhtiyarpur - 2021
+            BCE, Bakhtiyarpur - 2021
 
 >In terms of our previous interactions with participants across multiple colleges in the locality and around, this ***Environment Day*** ``5th June 2021``, We sparked upon an idea to utilize this influx of participants and the lock-down to our advantage to generate a college hosted ``Techno-Cultural-Fest`` a general kick-start base of which are discussed below.
 >### Timing 
@@ -23,7 +23,10 @@
 |Digital art and Animation|``as the name says``|
 |Women's Tech Road-maps|``as the name says``|
 |Hackathon (Social problems) ``advanced``|`` recognizing the problems around us that could be addressed and resolved utilizing hardware, software,algorithms, idea sparks, diplomacy,revolutionary movements``|
-|Gaming Events | Having some online multiplayer games to play like ``PUBG`` ``Chess`` and many more... |
+|Gaming Events | Having some online multiplayer games to play like ``battle royales`` ``mystery voids`` ``board games`` ``Strategic games`` ``Card games`` ``Trivias`` ``arcade-adventures``and many more... |
+|Structural Builds|Being an engineer automatically rhymes with expectations of pre-knowing the basic structural and material strengths ---  so here we are to battle among those who can build stable designs as per supplied constrains and themes(obviously on simulations)|
+|Crazy HARDWARE, ELECTRONICS, IOT and MICRO_CONTROLLER STUFFS|Workshop and basic simulator projects to get people started in field of understanding how those jiggly lil electrons behave to form the 21st century as we know|
+|Trade -> Investment -> Marketing|A deep thorough look at how market, stocks and crypto(digital currencies) work and how can one safely try their hands on it...also how to make one's own working model clones|
 |yet to add parts|``suggestions, please!``|
 
 ## Things we would need
