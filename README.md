@@ -1,6 +1,3 @@
-README.md
-README.md
-
 # TECHNO CULTURAL FESTIVAL
             BCE, Bakhtiyarpur - 2021
 
@@ -44,4 +41,3 @@ README.md
  - [x] Platform
  - [x] NameSake Sponsorships
 [the source repo](https://github.com/bcedsc/cultFest)
-Markdown 3854 bytes 527 words 44 lines Ln 32, Col 220HTML 3043 characters 511 words 57 paragraphs
