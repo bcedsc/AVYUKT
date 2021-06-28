@@ -39,7 +39,7 @@
  - [x] Finance Sponsorships
  - [x] Platform
  - [x] NameSake Sponsorships
-[the source repo](https://github.com/bcedsc/cultFest)
+[the source repo](https://github.com/bcedsc/AVYUKT)
 
 ## pictorial mindmaps
 1.Teams [**hosting**]
