@@ -27,7 +27,6 @@
 |Gaming Events | Having some online multiplayer games to play like ``battle royales`` ``mystery voids`` ``board games`` ``Strategic games`` ``Card games`` ``Trivias`` ``arcade-adventures``and many more... |
 |Structural Builds|Being an engineer automatically rhymes with expectations of pre-knowing the basic structural and material strengths ---  so here we are to battle among those who can build stable designs as per supplied constrains and themes(obviously on simulations)|
 |Crazy HARDWARE, ELECTRONICS, IOT and MICRO_CONTROLLER STUFFS|Workshop and basic simulator projects to get people started in field of understanding how those jiggly lil electrons behave to form the 21st century as we know [``Hardware buzz and circuit mania rapid fires and competetive rounds``]|
-|Trade -> Investment -> Marketing|A deep thorough look at how market, stocks and crypto(digital currencies) work and how can one safely try their hands on it...also how to make one's own working model clones|
 |**Avyukt** Leaderboards | the ultimate countdown rush to the final force fields of maximum participation... cuz holding multiple zone is a zone itself --- chances to win exciting *goodies* apart from event participation!!|
 |yet to add parts|``suggestions, please!``|
 
@@ -41,3 +40,11 @@
  - [x] Platform
  - [x] NameSake Sponsorships
 [the source repo](https://github.com/bcedsc/cultFest)
+
+## pictorial mindmaps
+1.Teams [**hosting**]
+            ![TEAMS](./teams.png)
+2.Categories [**coordination**]
+            ![CATEGORIES](./categories.png)
+3.Events [**presentation**]
+            ![EVENTS](./events.png)
