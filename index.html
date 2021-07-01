@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README.md</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#techno-cultural-festival">TECHNO CULTURAL FESTIVAL</a>
+<ul>
+<li></li>
+<li><a href="#table-of-contentsunder--process">Table of contents(under  process)</a></li>
+<li><a href="#things-we-would-need">Things we would need</a></li>
+<li><a href="#pictorial-mindmaps">pictorial mindmaps</a></li>
+<li><a href="#to-do-integrate-suggestions-">to-do( integrate suggestions )</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="techno-cultural-festival">TECHNO CULTURAL FESTIVAL</h1>
+<pre><code>        BCE, Bakhtiyarpur - 2021
+</code></pre>
+<blockquote>
+<p>In terms of our previous interactions with participants across multiple colleges in the locality and around, this <em><strong>Environment Day</strong></em> <code>5th June 2021</code>, We sparked upon an idea to utilize this influx of participants and the lock-down to our advantage to generate a college hosted <code>Techno-Cultural-Fest</code> a general kick-start base of which are discussed below.</p>
+<h3 id="timing">Timing</h3>
+</blockquote>
+<p><code>Mid September 2021</code></p>
+<h2 id="table-of-contentsunder--process">Table of contents(<em>under  process</em>)</h2>
+
+<table>
+<thead>
+<tr>
+<th>Hostings</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>orientation</td>
+<td>welcoming freshers, interaction of junior, senior, alumni under one hood</td>
+</tr>
+<tr>
+<td>basic etiquette</td>
+<td>Discussing the general etiquette, respecting your fellow-mates, seniors, juniors, everyone. Approaching, seeking help the right way, personality development, communication skills, professionalism and more can be added</td>
+</tr>
+<tr>
+<td>workshop</td>
+<td>specific skill-based interactive sessions empowered by microsoft and github that is already present in our campus — <code>career en devours and opportunity in Branched engineering perspectives(soft and hard skills)</code></td>
+</tr>
+<tr>
+<td>induction</td>
+<td>opportunities especially for 1st year to understand scopes and gateways to possibilities ahead from those already on the path</td>
+</tr>
+<tr>
+<td>invocation</td>
+<td>success and struggle stories to better understand tactics to handle generic issues yet to come</td>
+</tr>
+<tr>
+<td>hackathon-Case Studies</td>
+<td><code>as the name says</code></td>
+</tr>
+<tr>
+<td>StartUp Saga</td>
+<td>discussing budding frameworks in pearly minds  (basically a hackathon but where ideas would be valued more than the end product itself as in direction of removing the fear of coding skills required for hackathons)</td>
+</tr>
+<tr>
+<td>Cultural Tale</td>
+<td><code>as the name says(includes essays,fiction,fantasies,poetries, music) + open mic platforms</code></td>
+</tr>
+<tr>
+<td>Thug Meme battles</td>
+<td>;)</td>
+</tr>
+<tr>
+<td>Digital art and Animation</td>
+<td><code>as the name says</code></td>
+</tr>
+<tr>
+<td>Women’s Tech Road-maps</td>
+<td><code>as the name says</code></td>
+</tr>
+<tr>
+<td>Hackathon (Social problems) <code>advanced</code></td>
+<td><code>recognizing the problems around us that could be addressed and resolved utilizing hardware, software,algorithms, idea sparks, diplomacy,revolutionary movements</code></td>
+</tr>
+<tr>
+<td>Fiery Quiz Sagas</td>
+<td><code>branched engineering multiple layered battle rounds</code></td>
+</tr>
+<tr>
+<td>United Debate Opportunities</td>
+<td>a well devised way to discuss and come up with information and solutions related to various technical and non technical branched engineering schematics and topics</td>
+</tr>
+<tr>
+<td>Gaming Events</td>
+<td>Having some online multiplayer games to play like <code>battle royales</code> <code>mystery voids</code> <code>board games</code> <code>Strategic games</code> <code>Card games</code> <code>Trivias</code> <code>arcade-adventures</code>and many more…</td>
+</tr>
+<tr>
+<td>Structural Builds</td>
+<td>Being an engineer automatically rhymes with expectations of pre-knowing the basic structural and material strengths —  so here we are to battle among those who can build stable designs as per supplied constrains and themes(obviously on simulations)</td>
+</tr>
+<tr>
+<td>Crazy HARDWARE, ELECTRONICS, IOT and MICRO_CONTROLLER STUFFS</td>
+<td>Workshop and basic simulator projects to get people started in field of understanding how those jiggly lil electrons behave to form the 21st century as we know [<code>Hardware buzz and circuit mania rapid fires and competetive rounds</code>]</td>
+</tr>
+<tr>
+<td><strong>Avyukt</strong> Leaderboards</td>
+<td>the ultimate countdown rush to the final force fields of maximum participation… cuz holding multiple zone is a zone itself — chances to win exciting <em>goodies</em> apart from event participation!!</td>
+</tr>
+<tr>
+<td>yet to add parts</td>
+<td><code>suggestions, please!</code></td>
+</tr>
+</tbody>
+</table><h2 id="things-we-would-need">Things we would need</h2>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Permissions</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Support  from college</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Seniors Support</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Platform for comminication (<a href="https://discord.gg/3N6BQxuQ">Discord</a> preffered)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Finance Sponsorships</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> Platform</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled=""> NameSake Sponsorships<br>
+<a href="https://github.com/bcedsc/AVYUKT">the source repo</a></li>
+</ul>
+<h2 id="pictorial-mindmaps">pictorial mindmaps</h2>
+<p>1.Teams [<strong>hosting</strong>]<br>
+<img src="./teams.png" alt="TEAMS"><br>
+2.Categories [<strong>coordination</strong>]<br>
+<img src="./categories.png" alt="CATEGORIES"><br>
+3.Events [<strong>presentation</strong>]<br>
+<img src="./events.png" alt="EVENTS"></p>
+<hr>
+<h2 id="to-do-integrate-suggestions-">to-do( <code>integrate suggestions</code> )</h2>
+<blockquote>
+<p>Well, with some of my EEE colleagues we are working on these events.<br>
+<strong>CIRCUIT MANIA</strong><br>
+•	ROUND 1<br>
+o	30 Questions (5-8 hard questions).<br>
+o	Time limit : (yet to be decided).<br>
+o	To be taken on Google forms.<br>
+•     ROUND 2<br>
+○   The top 5 or 10 will be selected based on the participant’s count.<br>
+○   10-15 questions.<br>
+○  To be taken on the “bookwidgets” platform.<br>
+○   Time limit: (yet to be decided).<br>
+<strong>Riddle</strong><br>
+•	There will be 10 puzzles related to electrical and electronics (devices, term, principles, person, etc) using some reasoning.<br>
+•	Platform - google forms<br>
+•	Rules-<br>
+1.	Allowed to browse<br>
+2.	No option type(answer in 1-2 word type)<br>
+<strong>ROBOTICS</strong> (not yet discussed briefly)<br>
+To ensure maximum participation and uplift their enthusiasm, Perks and goodies have to be great in this event.<br>
+•	Rules (more to explore and discuss)-<br>
+3.	Participants have to build a robot and present it live in front of the judging panel.<br>
+4.	They also have to send a detailed video on function, coding, and working of the robot a day before going in front of the judging panel (just like resume before the interview)<br>
+•	Theme (working and function)<br>
+Like going in every direction or should follow a path (like on black and white path), or picking something, (give some ideas for theme).<br>
+We would like to hear those mentioned events related to our branch like <strong>drone bot</strong> and <strong>chip-based programming</strong> and love to help in making it happen.<br>
+Personally, I a am big fan of cultural table especially submission type. I love to help in framing those events. some of my interests are <strong>virtual CID, Mr. &amp; Ms. Avyukt,</strong> and many more.<br>
+<em>My suggestions</em>:-<br>
+<strong>Selfie movie event</strong>- I think we all know famous YouTuber BB and his vines. So in this event participants have to make a movie using selfie cameras following the theme and rules provided. Participants can be solo or in a group so that they can make movies with their friends who are far from them. And in this way, we bring people closer. Open for improvisation.<br>
+<strong>Photography</strong>:- (we can keep this event for the fest or push this in  pre-fest event)<br>
+Photography is always an event of maximum participation. (we also witness this in event of Environment day)<br>
+Rules-<br>
+60% weightage on the photograph.<br>
+40% weightage on the statement.<br>
+To submit-<br>
+1. A photograph<br>
+2. Title, type or style or genre, Location, minimum 2-3 sentences description about photograph<br>
+We should also organize some pre-fest events and workshops. It will help in marketing a lot.</p>
+</blockquote>
+<blockquote>
+<p>There should be one more competition like <strong>drone flying competition</strong> in which the participants will have to fly his drone and compete with others participants. There will three level in which the 1st level they have to make round of academic block (or we will specify the place) and  in 2nd round there will be some obstacles like zig zag and circle type path they have to travel . In this competition the participants will have to compete with in limited time  and safely crosses all the obstacles will be considered as winner.</p>
+</blockquote>
+<blockquote>
+<p>EEEpdf</p>
+</blockquote>
+<blockquote>
+<p>those are interested in organising <strong>art and culture</strong> disscus with me<br>
+event such that singing competition ,tukbandi, sher e mukabala etc</p>
+</blockquote>
+<blockquote>
+<p>Placement Patronus — <a href="https://www.incubateind.com/hackreqclg">https://www.incubateind.com/hackreqclg</a> ----<a href="https://github.com/Hackodisha/hackodisha-web">https://github.com/Hackodisha/hackodisha-web</a></p>
+</blockquote>
+
+    </div>
+  </div>
+</body>
+
+</html>
